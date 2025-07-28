@@ -2,8 +2,8 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/71114b12-695f-44cb-aeab-ef4e30e4690f
-
+**URL**: [https://lovable.dev/projects/71114b12-695f-44cb-aeab-ef4e30e4690f
+](https://my-expensetracker.lovable.app)
 ## How can I edit this code?
 
 There are several ways of editing your application.
