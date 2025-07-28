@@ -1,5 +1,5 @@
 import { 
-  DollarSign, 
+  IndianRupee, 
   Briefcase, 
   TrendingUp, 
   Building, 
@@ -18,7 +18,7 @@ import {
 
 export const getCategoryIcon = (category: string) => {
   const iconMap: Record<string, any> = {
-    'Salary': DollarSign,
+    'Salary': IndianRupee,
     'Freelance': Briefcase,
     'Investment': TrendingUp,
     'Business': Building,
